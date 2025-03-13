@@ -1,2 +1,2 @@
-# Portable
-Portable for Automation like Ansible
+# Puppet
+Puppet for Automation like Ansible
